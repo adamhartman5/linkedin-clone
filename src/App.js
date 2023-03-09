@@ -9,12 +9,11 @@ function App() {
 			{/* Header */}
 			<Header />
 			{/* App Body */}
-			<div className="app__body">
+			<div className='app__body'>
 				<Sidebar />
+				{/* Feed */}
+				{/* Widgets */}
 			</div>
-			{/* Sidebar */}
-			{/* Feed */}
-			{/* Widgets */}
 		</div>
 	);
 }
