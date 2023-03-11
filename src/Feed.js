@@ -1,6 +1,7 @@
 import React from 'react';
 import './Feed.css';
 import CreateIcon  from '@mui/icons-material/Create';
+import InputOption from './InputOption';
 
 function Feed() {
 	return (
